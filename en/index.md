@@ -4,17 +4,13 @@ title: (EN) Outil de catégorisation de l’information
 lang: en
 ---
 
-<div class="container">
-    <div id="alertMessage"></div>
-    <div class="row">
-        <main property="mainContentOfPage" class="col-md-9 col-md-push-3" typeof="WebPageElement">
-            <h1 property="name" id="wb-cont">
-                <tvar data-tvar="fr_title">Outil de catégorisation de l’information</tvar>
-            </h1>
-            <tvar data-tvar="fr_content">
-                <p>La protection de l'information englobe non seulement le traitement et la protection appropriés de l'information en soi, mais aussi le maintien de cette protection depuis la création de l'information jusqu'à son élimination en passant par son stockage. Les employés doivent protéger tous les renseignements, qu'ils soient sous forme physique ou électronique. Ce guide vous permet de trouver facilement tous les renseignements dont vous avez besoin pour la catégorisation et le traitement de l'information. Il existe deux niveaux d'informations sensibles, Classifiée et Protégée, qui ont chacun 3 catégories.</p>
-                <h2>Information classifiée</h2>
-                <p>Concerne l'intérêt national. Elle concerne la défense et le maintien de la stabilité sociale, politique et économique du Canada et pourrait faire l'objet d'une exemption ou d'une exclusion en vertu de la _Loi sur l'accèss à l'information_.</p>
+<h1 property="name" id="wb-cont">
+    <tvar data-tvar="fr_title">Outil de catégorisation de l’information</tvar>
+</h1>
+<tvar data-tvar="fr_content">
+    <p>La protection de l'information englobe non seulement le traitement et la protection appropriés de l'information en soi, mais aussi le maintien de cette protection depuis la création de l'information jusqu'à son élimination en passant par son stockage. Les employés doivent protéger tous les renseignements, qu'ils soient sous forme physique ou électronique. Ce guide vous permet de trouver facilement tous les renseignements dont vous avez besoin pour la catégorisation et le traitement de l'information. Il existe deux niveaux d'informations sensibles, Classifiée et Protégée, qui ont chacun 3 catégories.</p>
+    <h2>Information classifiée</h2>
+    <p>Concerne l'intérêt national. Elle concerne la défense et le maintien de la stabilité sociale, politique et économique du Canada et pourrait faire l'objet d'une exemption ou d'une exclusion en vertu de la _Loi sur l'accèss à l'information_.</p>
 
 <!-- 
 INFORMATION CLASSIFIÉE
@@ -23,7 +19,6 @@ INFORMATION CLASSIFIÉE
     <div class="btn-group mrgn-bttm-md">
         <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#details-elements&quot;, &quot;type&quot;: &quot;on&quot;, &quot;print&quot;: &quot;on&quot;}">Agrandir tout</button> <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#details-elements&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
     </div>
-
     <ul id="classifiee" class="list-unstyled wb-filter">
         <li class="mrgn-tp-sm">
             <details id="confidentiel_" onclick="shwHidden(this.id)">
@@ -478,13 +473,3 @@ OUTIL D'ÉVALUATION DE PRÉJUDICE
         <p>Lors de l'évaluation de la valeur et du niveau de préjudice potentiel des informations, assurez-vous d'inclure le point de vue de toutes les parties prenantes de l'information ou des biens. Si l'on évaluait ensemble plusieurs cas d'informations sensibles, le préjudice causé par toutes les informations combinées pourrait être plus élevé que si des informations individuelles étaient compromises seules.</p>
     </div>
 </section>
-</main>
-
-<nav class="wb-sec col-md-3 col-md-pull-9" typeof="SiteNavigationElement" id="wb-sec" role="navigation">
-    <h2 id="wb-sec-h" class="wb-inv">Menu de la section</h2>
-    <section class="list-group menu list-unstyled" id="left_nav">
-        <tvar data-tvar="left_nav"><div data-ajax-append="/_conf/assets/fr/nav_gauche/si/si_securite_gauche.html" class="original"></tvar>
-    </section>
-</nav>
-</div> <!-- div row -->
-</div> <!-- div container -->
