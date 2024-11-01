@@ -13,3 +13,7 @@ The guidance includes:
 
 * How to determine the categorization of an information
 * An injury impact assessment to help determine the injry level based on the information categorization
+
+[English Version](index-en.html)
+
+[Version Française](index-fr.html)
