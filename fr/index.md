@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: Titre de la page
-ref: page-index-fr
 lang: fr
-permalink: /index-fr.html
 ---
 
 ## {{ page.title }}

@@ -12,7 +12,7 @@ The guidance includes:
 * How to determine the categorization of an information
 * An injury impact assessment to help determine the injry level based on the information categorization
 
-You can access the [English version here](index-en.html)
+You can access the [English version here](en/index.html)
 
 ----
 
@@ -23,4 +23,4 @@ Les conseils incluent :
 * Comment déterminer la catégorisation d'une information
 * Une évaluation de l'impact des blessures pour aider à déterminer le niveau de blessure en fonction de la catégorisation de l'information
 
-Vous pouvez accéder à la [version française ici](index-fr.html).
+Vous pouvez accéder à la [version française ici](fr/index.html).
